@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 /*
 Para inserir classes ao autoload.php do composer 
